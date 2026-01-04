@@ -1,0 +1,78 @@
+--- EMAIL ENVOYÉ LE 2026-01-03 16:07:04 ---
+A : william.ndjike3@yahoo.com, donaldfotso00@icloud.com
+SUJET : 🔴 RÉSERVATION CONFIRMÉE (OZ-1598)
+MESSAGE :
+
+    NOUVELLE RÉSERVATION OZ BARBER
+    =================================
+    ID      : OZ-1598
+    CLIENT  : Jazzy
+    TEL     : +237 676399177
+    SERVICE : Coiffure Simple
+    LIEU    : Agence Bali (Niveau KOE)
+    DATE    : Le 2026-01-24 à 16:12
+    
+    ACOMPTE : 750 FCFA
+    RESTE   : 750 FCFA (Sur place)
+    =================================
+    
+
+--- EMAIL ENVOYÉ LE 2026-01-04 13:15:48 ---
+A : william.ndjike3@yahoo.com, donaldfotso00@icloud.com
+SUJET : 🔴 RÉSERVATION CONFIRMÉE (OZ-9983)
+MESSAGE :
+
+    NOUVELLE RÉSERVATION OZ BARBER
+    =================================
+    ID      : OZ-9983
+    CLIENT  : Jazzy
+    TEL     : +237 698745123
+    SERVICE : Coiffure Simple
+    LIEU    : Agence Bali (Niveau KOE)
+    DATE    : Le 2026-01-24 à 17:15
+    
+    ACOMPTE : 750 FCFA
+    RESTE   : 750 FCFA (Sur place)
+    =================================
+    
+
+--- EMAIL ENVOYÉ LE 2026-01-04 13:30:11 ---
+A : william.ndjike3@yahoo.com, donaldfotso00@icloud.com
+SUJET : 🔴 RÉSERVATION CONFIRMÉE (OZ-1017)
+MESSAGE :
+
+    NOUVELLE RÉSERVATION OZ BARBER
+    =================================
+    ID      : OZ-1017
+    CLIENT  : donald
+    TEL     : +237 688521475
+    SERVICE : Soins Corporels
+    LIEU    : Agence Bastos
+    DATE    : Le 2026-02-01 à 13:33
+    
+    ACOMPTE : 2 500 FCFA
+    RESTE   : 2 500 FCFA (Sur place)
+    =================================
+    
+
+--- EMAIL ENVOYÉ LE 2026-01-04 14:11:57 ---
+POUR : william.ndjike3@yahoo.com, donaldfotso00@icloud.com
+SUJET : 🔴 RÉSERVATION N°OZ-9214 (En attente)
+MESSAGE :
+
+    NOUVELLE RÉSERVATION OZ BARBER
+    =================================
+    ID      : OZ-9214
+    CLIENT  : dhtf
+    TEL     : +237 677989809
+    SERVICE : Soins du Visage
+    LIEU    : Metrollex Logbessou
+    DATE    : Le 2026-02-07 à 14:16
+    
+    ACOMPTE : 1 500 FCFA (À régler)
+    
+    LIEN D'ANNULATION (Pour le client) :
+    http://localhost/salon_coiffure/annulation.php?token=c39397035ff19cb02ab6090202d5adad
+    =================================
+    
+
